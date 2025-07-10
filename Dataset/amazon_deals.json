@@ -1,0 +1,818 @@
+{
+    "status": "OK",
+    "request_id": "bf996cb8-68eb-4139-ace4-a8bdac83b07e",
+    "parameters": {
+        "country": "BR",
+        "categories": [
+            "eletronic"
+        ],
+        "price_range": "ALL",
+        "discount_range": "ALL",
+        "num_pages": 1
+    },
+    "data": {
+        "deals": [
+            {
+                "deal_id": "aa614c47",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Echo Pop (\u00daltima gera\u00e7\u00e3o) | Smart speaker compacto com som envolvente e Alexa | Cor Preta",
+                "deal_photo": "https://m.media-amazon.com/images/I/61V5FRUgX8L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Echo-Pop-Cor-Preta/dp/B09WXVH7WK",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/aa614c47",
+                "deal_starts_at": "2025-07-10T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:59:59.000Z",
+                "deal_price": {
+                    "amount": "269.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "379.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 29,
+                "savings_amount": {
+                    "amount": "110.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "29% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09WXVH7WK"
+            },
+            {
+                "deal_id": "4a8ecb40",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Smartphone Samsung Galaxy S24+, Galaxy AI, Selfie de 12MP, Tela de 6.7\" 1-120Hz, 256GB, 12GB RAM - Cinza",
+                "deal_photo": "https://m.media-amazon.com/images/I/71-YiNPYoCL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Smartphone-Samsung-Galaxy-Selfie-1-120Hz/dp/B0CQD99RZB",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/4a8ecb40",
+                "deal_starts_at": "2025-07-05T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:45:00.000Z",
+                "deal_price": {
+                    "amount": "3549.1",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "4149.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 14,
+                "savings_amount": {
+                    "amount": "599.9",
+                    "currency": "BRL"
+                },
+                "deal_badge": "14% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CQD99RZB"
+            },
+            {
+                "deal_id": "9ecbbf77",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Echo Dot (\u00daltima gera\u00e7\u00e3o) | O Echo Dot com o melhor som j\u00e1 lan\u00e7ado | Cor Preta",
+                "deal_photo": "https://m.media-amazon.com/images/I/71xoR4A6q-L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Echo-Dot-5%C2%AA-gera%C3%A7%C3%A3o-Cor-Preta/dp/B09B8VGCR8",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/9ecbbf77",
+                "deal_starts_at": "2025-07-10T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:59:59.000Z",
+                "deal_price": {
+                    "amount": "349.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "459.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 23,
+                "savings_amount": {
+                    "amount": "110.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "23% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09B8VGCR8"
+            },
+            {
+                "deal_id": "6e4eb358",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Echo Show 8 (\u00daltima gera\u00e7\u00e3o) | Smart display com \u00e1udio espacial, hub de casa inteligente e Alexa | Cor Preta",
+                "deal_photo": "https://m.media-amazon.com/images/I/71XMCnkUyBL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/echo-show-8-preto/dp/B0BLS1XM8L",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/6e4eb358",
+                "deal_starts_at": "2025-07-10T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:59:59.000Z",
+                "deal_price": {
+                    "amount": "999.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "1399.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 28,
+                "savings_amount": {
+                    "amount": "400.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "28% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0BLS1XM8L"
+            },
+            {
+                "deal_id": "106a22d5",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Omo 2 Unidades Det L\u00edquido Lavag Perfeita 5L",
+                "deal_photo": "https://m.media-amazon.com/images/I/61NcG-lzrCL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Omo-Unidades-L%C3%ADquido-Lavag-Perfeita/dp/B0D6CV1P49",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/106a22d5",
+                "deal_starts_at": "2025-07-07T17:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "85.59",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "119.99",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 28,
+                "savings_amount": {
+                    "amount": "34.4",
+                    "currency": "BRL"
+                },
+                "deal_badge": "28% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0D6CV1P49"
+            },
+            {
+                "deal_id": "22652c6a",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Echo Show 5 (\u00daltima gera\u00e7\u00e3o) | Smart display com Alexa, graves 2x mais potentes e som mais n\u00edtido | Cor Preta",
+                "deal_photo": "https://m.media-amazon.com/images/I/51jf-jmkW5L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Echo-Show-5-3%C2%AAgera%C3%A7%C3%A3o-Cor-Preta/dp/B09B2TSNNN",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/22652c6a",
+                "deal_starts_at": "2025-07-10T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:59:59.000Z",
+                "deal_price": {
+                    "amount": "539.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "699.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 22,
+                "savings_amount": {
+                    "amount": "160.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "22% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09B2TSNNN"
+            },
+            {
+                "deal_id": "6f9c844b",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Fire TV Stick HD (\u00daltima gera\u00e7\u00e3o) | Com controle remoto por voz com Alexa (inclui comandos de TV), controles de casa inteligente e streaming em HD",
+                "deal_photo": "https://m.media-amazon.com/images/I/61qQCckVsqL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/fire-tv-stick-hd/dp/B0CQMT33WX",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/6f9c844b",
+                "deal_starts_at": "2025-07-10T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:59:59.000Z",
+                "deal_price": {
+                    "amount": "299.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "369.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 18,
+                "savings_amount": {
+                    "amount": "70.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "18% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CQMT33WX"
+            },
+            {
+                "deal_id": "a5696617",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Microondas R1 BRANCO PORTA PRETA 20L MRAS21/MRAS22 (127)",
+                "deal_photo": "https://m.media-amazon.com/images/I/41kh2TI9f0L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Microondas-BRANCO-PORTA-MRAS21-MRAS22/dp/B09329F4J6",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/a5696617",
+                "deal_starts_at": "2025-07-04T03:00:00.000Z",
+                "deal_ends_at": "2025-07-15T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "412.22",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "484.86",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 14,
+                "savings_amount": {
+                    "amount": "72.64",
+                    "currency": "BRL"
+                },
+                "deal_badge": "14% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09329F4J6"
+            },
+            {
+                "deal_id": "8eda9d85",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Fritadeira Airfryer Forno Philips Walita, S\u00e9rie 5000, 2 anos de garantia, 1600W, 110v - AI551/09",
+                "deal_photo": null,
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Fritadeira-Airfryer-Philips-Walita-garantia/dp/B0DD1KD5JP",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/8eda9d85",
+                "deal_starts_at": "2025-07-07T05:30:00.000Z",
+                "deal_ends_at": "2025-07-17T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "679.9",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "819.9",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 17,
+                "savings_amount": {
+                    "amount": "140.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "17% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DD1KD5JP"
+            },
+            {
+                "deal_id": "44cf837e",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Fralda Descart\u00e1vel Huggies M\u00e1xima Prote\u00e7\u00e3o Tamanho G 160 unidades \u2013 Nova fralda Supreme Care aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e m\u00e1xima prote\u00e7\u00e3o sem fralda ca\u00edda (embalagem pode variar)",
+                "deal_photo": "https://m.media-amazon.com/images/I/81fNk6kKaoL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Descart%C3%A1vel-Huggies-Prote%C3%A7%C3%A3o-Tamanho-unidades/dp/B0BFXKZQ2Y",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/44cf837e",
+                "deal_starts_at": "2025-07-04T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "155.9",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "176.38",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 11,
+                "savings_amount": {
+                    "amount": "20.48",
+                    "currency": "BRL"
+                },
+                "deal_badge": "11% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0BFXKZQ2Y"
+            },
+            {
+                "deal_id": null,
+                "deal_title": "Ar-condicionado Split Inverter 12000 Btus Electrolux Color Adapt com Wi-fi S\u00f3 Frio Yi12f/ye12f 220v",
+                "deal_photo": "https://m.media-amazon.com/images/I/61TLVfSeDcL.jpg",
+                "deal_url": "https://www.amazon.com.br/Ar-condicionado-Split-Inverter-12000-Electrolux/dp/B0CNGZ7K3T",
+                "deal_starts_at": null,
+                "deal_ends_at": null,
+                "deal_price": {
+                    "amount": "2549.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": null,
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CNGZ7K3T"
+            },
+            {
+                "deal_id": "e2d916ff",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Aperitivo Bitter Campari 748ml",
+                "deal_photo": "https://m.media-amazon.com/images/I/71a8-9BtUVL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Campari-Aperitivo-Bitter-748ml/dp/B0CPFJMNZB",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/e2d916ff",
+                "deal_starts_at": "2025-07-08T19:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "34.9",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "48.9",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 28,
+                "savings_amount": {
+                    "amount": "14.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "28% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CPFJMNZB"
+            },
+            {
+                "deal_id": "45d635f8",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Macac\u00e3o de dormir para beb\u00eas Pijama de algod\u00e3o com p\u00e9s justos Simple Joys by Carter'sMeninos",
+                "deal_photo": "https://m.media-amazon.com/images/I/91qg13wQRgL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Simple-Joys-Carters-confort%C3%A1vel-constru%C3%A7%C3%A3o/dp/B0BL8R7H32",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/45d635f8",
+                "deal_starts_at": "2025-07-09T00:40:00.000Z",
+                "deal_ends_at": "2025-07-17T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "133.16",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "156.03",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 14,
+                "savings_amount": {
+                    "amount": "22.87",
+                    "currency": "BRL"
+                },
+                "deal_badge": "14% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0BL8R7H32"
+            },
+            {
+                "deal_id": "41d9acb3",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Mustela Gel Lavante Suave 500ml - Sabonete L\u00edquido Corpo e Cabelo para beb\u00eas e crian\u00e7as \u2013 feito com 93% de ingredientes de origem natural",
+                "deal_photo": "https://m.media-amazon.com/images/I/51YVzVZI1sL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Lavante-Sabonete-Hipoalerg%C3%AAnico-Mustela-Beb%C3%AA/dp/B08NQNXMPL",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/41d9acb3",
+                "deal_starts_at": "2025-07-08T18:10:00.000Z",
+                "deal_ends_at": "2025-07-17T02:59:59.000Z",
+                "deal_price": {
+                    "amount": "49.62",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "71.99",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 31,
+                "savings_amount": {
+                    "amount": "22.37",
+                    "currency": "BRL"
+                },
+                "deal_badge": "31% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B08NQNXMPL"
+            },
+            {
+                "deal_id": "ee1cfbe7",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "YoPRO Bebida L\u00e1ctea UHT Chocolate 15g de prote\u00ednas 250ml - 12 unidades",
+                "deal_photo": "https://m.media-amazon.com/images/I/51HZ4nkDzrL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/YoPRO-Bebida-Chocolate-Prote%C3%ADnas-Unidades/dp/B09M2B14V7",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/ee1cfbe7",
+                "deal_starts_at": "2025-07-07T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:59:59.000Z",
+                "deal_price": {
+                    "amount": "66.5",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "83.99",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "17.49",
+                    "currency": "BRL"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09M2B14V7"
+            },
+            {
+                "deal_id": "e27b2b2a",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Echo Studio (\u00daltima gera\u00e7\u00e3o) | O som mais extraordin\u00e1rio com Alexa - com Dolby Atmos e tecnologia de processamento de \u00e1udio espacial | Cor preta",
+                "deal_photo": "https://m.media-amazon.com/images/I/61+voFa3ZfL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Echo-Studio-Smart-Speaker/dp/B07NQBGRKY",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/e27b2b2a",
+                "deal_starts_at": "2025-07-10T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:59:59.000Z",
+                "deal_price": {
+                    "amount": "1549.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "1799.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 13,
+                "savings_amount": {
+                    "amount": "250.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "13% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B07NQBGRKY"
+            },
+            {
+                "deal_id": "995a11fa",
+                "deal_type": "LIGHTNING_DEAL",
+                "deal_title": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, C\u00e2mera Qu\u00e1drupla de 200+50+10+50, Tela Grande de 6.9\", Tit\u00e2nio Preto",
+                "deal_photo": "https://m.media-amazon.com/images/I/41uS5ZSX9yL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Qu%C3%A1drupla-Tit%C3%A2nio/dp/B0DSXZ4FZT",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/995a11fa",
+                "deal_starts_at": "2025-07-10T03:00:00.000Z",
+                "deal_ends_at": "2025-07-11T02:45:00.000Z",
+                "deal_price": {
+                    "amount": "7399.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "7999.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 7,
+                "savings_amount": {
+                    "amount": "600.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "7% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DSXZ4FZT"
+            },
+            {
+                "deal_id": "2d47a0a0",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Smart TV Philips Ambilight 55\" 4K 55PUG7908/78, Google TV, Comando de Voz, Dolby Vision/Atmos, VRR/ALLM, Bluetooth",
+                "deal_photo": "https://m.media-amazon.com/images/I/51ZrhL+YhyL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Philips-Ambilight-55PUG7908-78-Bluetooth/dp/B0CCJXV795",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/2d47a0a0",
+                "deal_starts_at": "2025-07-06T14:45:00.000Z",
+                "deal_ends_at": "2025-07-15T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "2299.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "2699.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 14,
+                "savings_amount": {
+                    "amount": "400.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "14% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CCJXV795"
+            },
+            {
+                "deal_id": "45d635f8",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Simple Joys by Carter's Pacote com 3 pijamas de algod\u00e3o com p\u00e9s de ajuste confort\u00e1vel para meninas",
+                "deal_photo": "https://m.media-amazon.com/images/I/91UhzktIAHL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Simple-Joys-Carters-confort%C3%A1veis-dinossauro/dp/B073WMRYK3",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/45d635f8",
+                "deal_starts_at": "2025-07-09T00:40:00.000Z",
+                "deal_ends_at": "2025-07-17T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "132.53",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "155.29",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 14,
+                "savings_amount": {
+                    "amount": "22.76",
+                    "currency": "BRL"
+                },
+                "deal_badge": "14% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B073WMRYK3"
+            },
+            {
+                "deal_id": "bf7d8cc3",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Beelink Mini PC EQR5, Processador AMD Ryzen 7 5825U (8C/16T, at\u00e9 4,5GHz), 16GB DDR4 RAM 500GB NVMe PCIE3.0x4 SSD, Mini Computador Suporte 4K Dual Screen Display/WiFi 6/BT5.2/Dual LAN/USB 3.0",
+                "deal_photo": "https://m.media-amazon.com/images/I/61VALMdBXGL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Beelink-EQR5-Processador-PCIE3-0x4-Computador/dp/B0DSVY45GV",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/bf7d8cc3",
+                "deal_starts_at": "2025-07-10T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "1886.41",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "2939.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 35,
+                "savings_amount": {
+                    "amount": "1052.59",
+                    "currency": "BRL"
+                },
+                "deal_badge": "35% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DSVY45GV"
+            },
+            {
+                "deal_id": "85cecd2c",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Echo Spot com Alexa (\u00daltima gera\u00e7\u00e3o) | Despertador inteligente com som vibrante | Cor Preta",
+                "deal_photo": "https://m.media-amazon.com/images/I/71Qtzczw2fL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/echo-spot-despertador-inteligente-com-alexa-cor-preta/dp/B0C2RS4ZG6",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/85cecd2c",
+                "deal_starts_at": "2025-07-10T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:59:59.000Z",
+                "deal_price": {
+                    "amount": "469.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "579.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 18,
+                "savings_amount": {
+                    "amount": "110.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "18% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0C2RS4ZG6"
+            },
+            {
+                "deal_id": "9c8d1909",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Jogo de Panelas de Alum\u00ednio com Revestimento Interno de Antiaderente 5 Pe\u00e7as Tramontina M\u00f4naco Preto",
+                "deal_photo": "https://m.media-amazon.com/images/I/71H-G2gbQNL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Alum%C3%ADnio-Revestimento-Antiaderente-Tramontina-20899050/dp/B076JJMP9S",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/9c8d1909",
+                "deal_starts_at": "2025-07-10T01:00:00.000Z",
+                "deal_ends_at": "2025-07-15T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "680.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "862.23",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 21,
+                "savings_amount": {
+                    "amount": "182.23",
+                    "currency": "BRL"
+                },
+                "deal_badge": "21% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B076JJMP9S"
+            },
+            {
+                "deal_id": "550618f8",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Echo com Alexa (\u00daltima gera\u00e7\u00e3o): Com som premium e hub Zigbee de casa inteligente - Cor Preta",
+                "deal_photo": "https://m.media-amazon.com/images/I/71JB6hM6Z6L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Echo-4%C2%AA-gera%C3%A7%C3%A3o-Cor-Preta/dp/B085FXDTTX",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/550618f8",
+                "deal_starts_at": "2025-07-10T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:59:59.000Z",
+                "deal_price": {
+                    "amount": "569.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "749.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 24,
+                "savings_amount": {
+                    "amount": "180.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "24% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B085FXDTTX"
+            },
+            {
+                "deal_id": "58dcf68d",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Old Parr Whisky 12 Anos 1L",
+                "deal_photo": "https://m.media-amazon.com/images/I/51zz0lzNtuL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Whisky-Old-Parr-12-anos/dp/B002BSJLE0",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/58dcf68d",
+                "deal_starts_at": "2025-07-07T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "118.5",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "147.3",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 19,
+                "savings_amount": {
+                    "amount": "28.8",
+                    "currency": "BRL"
+                },
+                "deal_badge": "19% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B002BSJLE0"
+            },
+            {
+                "deal_id": "11dbb3d4",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Samsung Smart TV 50\" QLED 4K 50Q60D - Tecnologia de Pontos Qu\u00e2nticos, Design AirSlim",
+                "deal_photo": "https://m.media-amazon.com/images/I/61hNGxQeLlL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Samsung-Smart-QLED-50Q60D-Tecnologia/dp/B0CYNFTR8F",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/11dbb3d4",
+                "deal_starts_at": "2025-07-07T20:50:00.000Z",
+                "deal_ends_at": "2025-07-17T02:45:00.000Z",
+                "deal_price": {
+                    "amount": "2399.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "2799.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 14,
+                "savings_amount": {
+                    "amount": "400.0",
+                    "currency": "BRL"
+                },
+                "deal_badge": "14% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CYNFTR8F"
+            },
+            {
+                "deal_id": "686801a5",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
+                "deal_photo": "https://m.media-amazon.com/images/I/51dBND271dL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Lava-Seca-Samsung-11kg-Wd11m4473px/dp/B0BZ129NTZ",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/686801a5",
+                "deal_starts_at": "2025-06-25T22:55:00.000Z",
+                "deal_ends_at": "2025-07-17T02:45:00.000Z",
+                "deal_price": {
+                    "amount": "3559.05",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "3899.0",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 8,
+                "savings_amount": {
+                    "amount": "339.95",
+                    "currency": "BRL"
+                },
+                "deal_badge": "8% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0BZ129NTZ"
+            },
+            {
+                "deal_id": "fa8c377e",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Detergente para Lava Lou\u00e7as em P\u00f3 Finish 2,5kg",
+                "deal_photo": "https://m.media-amazon.com/images/I/614Pnx3wWMS.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Detergente-Para-Lou%C3%A7as-Finish-Advanced/dp/B07VRYJWPB",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/fa8c377e",
+                "deal_starts_at": "2025-07-04T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:45:00.000Z",
+                "deal_price": {
+                    "amount": "99.99",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "130.02",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 23,
+                "savings_amount": {
+                    "amount": "30.03",
+                    "currency": "BRL"
+                },
+                "deal_badge": "23% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B07VRYJWPB"
+            },
+            {
+                "deal_id": "782dcf96",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "La Roche-Posay Cicaplast Baume B5+ Cuidado Multirreparador Calmante",
+                "deal_photo": "https://m.media-amazon.com/images/I/41LpbF-1WDL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Roche-Posay-Cicaplast-Cuidado-Multirreparador-Calmante/dp/B072MK7BN2",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/782dcf96",
+                "deal_starts_at": "2025-07-07T14:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "57.5",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "68.16",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 15,
+                "savings_amount": {
+                    "amount": "10.66",
+                    "currency": "BRL"
+                },
+                "deal_badge": "15% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B072MK7BN2"
+            },
+            {
+                "deal_id": "a8336ef1",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Pack de Coca-Cola sem A\u00e7\u00facar 350Ml 6 unidades",
+                "deal_photo": "https://m.media-amazon.com/images/I/61qlXqYTxNL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Coca-Cola-sem-A%C3%A7%C3%BAcar-Lt-350Ml/dp/B09JZBTWV1",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/a8336ef1",
+                "deal_starts_at": "2025-07-10T03:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "18.1",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "21.3",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 15,
+                "savings_amount": {
+                    "amount": "3.2",
+                    "currency": "BRL"
+                },
+                "deal_badge": "15% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09JZBTWV1"
+            },
+            {
+                "deal_id": "782dcf96",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "CeraVe, Lo\u00e7\u00e3o Hidratante Corporal, com textura Fluida e \u00c1cido Hialur\u00f4nico",
+                "deal_photo": "https://m.media-amazon.com/images/I/61vyW3Dl-7L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com.br/Lo%C3%A7%C3%A3o-Hidratante-Corporal-Textura-Fluida-Cerave/dp/B07RK4HST7",
+                "canonical_deal_url": "https://www.amazon.com.br/deal/782dcf96",
+                "deal_starts_at": "2025-07-07T14:00:00.000Z",
+                "deal_ends_at": "2025-07-17T02:55:00.000Z",
+                "deal_price": {
+                    "amount": "71.0",
+                    "currency": "BRL"
+                },
+                "list_price": {
+                    "amount": "89.9",
+                    "currency": "BRL"
+                },
+                "savings_percentage": 21,
+                "savings_amount": {
+                    "amount": "18.9",
+                    "currency": "BRL"
+                },
+                "deal_badge": "21% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B07RK4HST7"
+            }
+        ],
+        "total_deals": 500,
+        "country": "BR",
+        "domain": "www.amazon.com.br"
+    }
+}
