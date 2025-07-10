@@ -48,7 +48,6 @@ Este projeto coleta, armazena e analisa ofertas da Amazon Brasil em tempo real u
 
 - Filtros por categoria, faixa de preço e nota do produto
 
-- Agendamento automático com Airflow ou cron
 
 ## 🧠 Autor
 
